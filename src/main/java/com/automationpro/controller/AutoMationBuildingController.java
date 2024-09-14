@@ -9,5 +9,4 @@ public class AutoMationBuildingController {
 	public String get() {
 		return "Hi da Velu mavaneyyyy";
 	}
-
 }
